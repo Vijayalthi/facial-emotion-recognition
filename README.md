@@ -33,8 +33,9 @@ This project is a Facial Emotion Recognition (FER) system built using deep learn
 ---
 ## Open the notebooks in order :
 
-- preprocessiong.ipynb
-- training.ipynb
-- evaluation.ipynb
+- `preprocessing.ipynb` – Load and preprocess data  
+- `training.ipynb` – Build and train the VGG16 + LSTM model  
+- `evaluation.ipynb` – Evaluate performance and visualize results
+
 
 ---
