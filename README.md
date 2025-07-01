@@ -31,3 +31,10 @@ This project is a Facial Emotion Recognition (FER) system built using deep learn
 - Download from: https://www.kaggle.com/datasets/msambare/fer2013
 
 ---
+## Open the notebooks in order :
+
+- preprocessiong.ipynb
+- training.ipynb
+- evaluation.ipynb
+
+---
